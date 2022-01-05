@@ -24,7 +24,7 @@ collaborators:
     permission: triage
     
 branches:
-  - name: dev-ko
+  - name: main
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
