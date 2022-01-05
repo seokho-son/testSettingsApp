@@ -26,8 +26,5 @@ branches:
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
-      restrictions:
-        users:
-         - seokho-son
-         - cat-taesik
- 
+        dismiss_stale_reviews: true
+        require_code_owner_reviews: true
