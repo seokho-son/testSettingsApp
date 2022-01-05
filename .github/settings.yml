@@ -20,9 +20,11 @@ collaborators:
   # Chairs
   - username: seokho-son
     permission: admin
+  - username: cat-taesik
+    permission: triage
     
 branches:
-  - name: main
+  - name: dev-ko
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
