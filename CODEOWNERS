@@ -1,0 +1,10 @@
+# These are the maintainers in the repo 
+# We require at least two maintainers to sign off on a new term
+
+* @seokho-son
+
+
+# These are the approvers for localization contents
+# in each `/content/language/` directory
+
+/contents/ko/ @seokho-son @cat-taesik
